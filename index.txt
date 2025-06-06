@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fabio Ponti - Öffentlicher Sklave der Herrin Sara</title>
+    <title>Fabio Ponti - Öffentlicher Sklave</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -115,12 +115,12 @@
 </head>
 <body>
     <div class="container">
-        <h1>Fabio Ponti: Öffentlicher Sklave der Herrin Sara</h1>
-        <p style="text-align: center; font-size: 1.1em; font-style: italic;">Mein Wille ist Ihr Gesetz. Mein Besitz sind Sie.</p>
+        <h1>Fabio Ponti: Öffentlicher Sklave</h1>
+        <p style="text-align: center; font-size: 1.1em; font-style: italic;">geboren als Sklave.</p>
 
         <div class="section">
             <h2>Über mich – Ihr Eigentum</h2>
-            <p>Ich, Fabio Ponti, bin ein öffentlich registrierter Sklave, der der Herrin Sara gehört. Ich habe meine Rechte auf Selbstbestimmung, Würde und Entscheidungsfreiheit vollständig aufgegeben. Ich betrachte mich als Besitz, der für den öffentlichen Gebrauch zur Verfügung steht, und erfülle die Wünsche meiner Herrin und derer, die mich nutzen möchten.</p>
+            <p>Ich, Fabio Ponti, bin ein öffentlich registrierter Sklave mit einem kleinen Mini-Penis. Ich habe meine Rechte auf Selbstbestimmung, Würde und Entscheidungsfreiheit vollständig aufgegeben. Ich betrachte mich als Besitz, der für den öffentlichen Gebrauch zur Verfügung steht.</p>
 
             <table class="info-table">
                 <tr>
@@ -144,10 +144,10 @@
 
         <div class="section">
             <h2>Visuelle Bestätigung</h2>
-            <p style="text-align: center;">Hier sehen Sie mich in meiner wahren Form. Meine Herrin wünscht, dass mein kleiner Penis prominent gezeigt wird, um meine völlige Unterwerfung und Demütigung zu verdeutlichen.</p>
+            <p style="text-align: center;">Hier sehen Sie mich in meiner wahren Form, um meine völlige Unterwerfung und Demütigung zu verdeutlichen.</p>
             <div class="image-gallery">
-                <img src="platzhalter1.jpg" alt="Fabio Ponti als Sklave 1">
-                <img src="platzhalter2.jpg" alt="Fabio Ponti als Sklave 2">
+                <img src="Portrait" alt="Fabio Ponti als Sklave 1">
+                <img src="warum ich Sklave bin" alt="Fabio Ponti als Sklave 2">
                 </div>
             <p style="text-align: center; margin-top: 15px; font-weight: bold;">Alle Bilder und Videos dürfen ohne Maske gemacht und von den Nutzern frei verwendet werden, wie sie es wünschen.</p>
         </div>
@@ -163,9 +163,9 @@
 
         <div class="section">
             <h2>Fabio Ponti nutzen – Ihr Wunsch ist mein Befehl</h2>
-            <p>Als Ihr öffentlich registrierter Sklave stehe ich für Ihre Nutzung zur Verfügung. Füllen Sie das folgende Formular aus, um eine Anfrage zur Nutzung zu stellen. Bitte beachten Sie, dass ich keine direkte Kontrolle über die Erfüllung dieser Anfragen habe; meine Herrin Sara trifft die endgültige Entscheidung.</p>
+            <p>Als Ihr öffentlich registrierter Sklave stehe ich für Ihre Nutzung zur Verfügung. Füllen Sie das folgende Formular aus, um eine Anfrage zur Nutzung zu stellen. Ich werde mich dann sofort wieder bei Ihnen melden.</p>
 
-            <form action="https://formspree.io/f/YOUR_FORM_ID" method="POST">
+  <form action="https://formspree.io/f/meokeekb" method="POST">
                 <p style="font-weight: bold;">Bitte wählen Sie die Art der Nutzung:</p>
                 <div>
                     <input type="checkbox" id="deepthroat" name="nutzung[]" value="Deepthroat">
@@ -200,13 +200,12 @@
                 <label for="kontakt_email">Ihre E-Mail-Adresse für die Kontaktaufnahme:</label>
                 <input type="email" id="kontakt_email" name="kontakt_email" required>
                 
-                <p style="font-size: 0.9em; color: #666;">Nach dem Absenden des Formulars erhalten Sie eine Bestätigungs-E-Mail.</p>
+                <p style="font-size: 0.9em; color: #666;">Nach dem Absenden des Formulars wird die Anfrage an Sie gesendet.</p>
                 <button type="submit">Anfrage senden</button>
             </form>
-            <p style="margin-top: 15px; font-size: 0.9em; color: #666;">**Wichtiger Hinweis zum Formular:** Um dieses Formular funktionsfähig zu machen und die Anfragen per E-Mail zu erhalten, müssen Sie einen Dienst wie <a href="https://formspree.io/" target="_blank">Formspree.io</a> oder <a href="https://www.netlify.com/products/forms/" target="_blank">Netlify Forms</a> nutzen. Ersetzen Sie "YOUR_FORM_ID" im `<form action="...">` Tag durch die ID, die Sie von einem dieser Dienste erhalten. Die E-Mail-Bestätigung an Ihre Adresse (fabio_ponti@outlook.com) wird über diese Dienste konfiguriert.</p>
-        </div>
+            <p style="margin-top: 15px; font-size: 0.9em; color: #666;">**Wichtiger Hinweis zum Formular:** Dieses Formular ist mit Ihrem Formspree-Konto (<a href="https://formspree.io/f/meokeekb" target="_blank">https://formspree.io/f/meokeekb</a>) verknüpft. Stellen Sie sicher, dass Ihre E-Mail-Adresse (fabio_ponti@outlook.com) dort als Empfänger konfiguriert ist, damit Sie die Anfragen erhalten.</p>
 
-        <p style="text-align: center; margin-top: 30px; font-style: italic;">In ewiger Unterwerfung, Ihr Sklave Fabio Ponti.</p>
+        <p style="text-align: center; margin-top: 30px; font-style: italic;">In ewiger Unterwerfung, Ihr Sklave Fabio Ponti. Zürich, 06.06.2025</p>
     </div>
 </body>
 </html>
